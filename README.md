@@ -30,4 +30,7 @@ if err != nil {
 ```
 
 
-Rust implemetation is [here](https://github.com/NishanthSpShetty/ringbuffer)
+### Other implementations
+Rust implemetation [here](https://github.com/NishanthSpShetty/ringbuffer)
+
+Zig implementaton  [here](https://github.com/NishanthSpShetty/zigring)
